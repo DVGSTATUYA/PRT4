@@ -25,11 +25,11 @@
 ```bash
 pip install pandas numpy matplotlib scikit-learn statsmodels
 ```
-###2. Подготовка данных
+### 2. Подготовка данных
 Файл с данными PP13_ISP22_timeseries.csv должен находиться в той же директории, что и скрипт.
 Формат файла: date,monthly_sales.
 
-###3. Запуск
+### 3. Запуск
 Запустите основной скрипт через терминал или IDE:
 
 ```Bash
